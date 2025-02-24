@@ -1,0 +1,25 @@
+.container {
+  display: flex;
+  background-color: grey;
+  margin: 0px auto;
+  padding: 10px;
+  border: 1px solid brown;
+}
+.box {
+  width: 100px;
+  height: 100px;
+  background-color: brown;
+  border: 1px solid black;
+  margin: auto auto;
+  text-align: center;
+  font-size: 80px;
+}
+h1 {
+  height: 30px;
+  text-align: center;
+  color: blue;
+  background-color: greenyellow;
+}
+p {
+  color: #f38600;
+}
